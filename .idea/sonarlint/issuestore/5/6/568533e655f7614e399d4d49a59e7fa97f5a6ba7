@@ -1,0 +1,82 @@
+
+E
+java:S37401"/Provide the parametrized type for this generic.(ÎÛ³Œ
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(Úò¯—ûÿÿÿÿ
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(Úò¯—ûÿÿÿÿ
+n
+java:S1104 "SMake backBtn a static final constant or non-public and provide accessors if needed.(ı·ŠÁÿÿÿÿÿ
+v
+java:S1104!"[Make systemNameField a static final constant or non-public and provide accessors if needed.(ÑÕÙÿÿÿÿÿÿ
+n
+java:S1104""XMake manageCatBtn a static final constant or non-public and provide accessors if needed.(óÛ†À
+q
+java:S1104#"VMake contactBtn a static final constant or non-public and provide accessors if needed.(™½Şûÿÿÿÿ
+o
+java:S1104$"YMake usernameField a static final constant or non-public and provide accessors if needed.(Ğü¨
+x
+java:S1104%"]Make userPasswordField a static final constant or non-public and provide accessors if needed.(éÁÛİûÿÿÿÿ
+w
+java:S1104&"\Make userContactField a static final constant or non-public and provide accessors if needed.(Ğá“¿ùÿÿÿÿ
+t
+java:S1104'"YMake updateUserBtn a static final constant or non-public and provide accessors if needed.(€ìşıúÿÿÿÿ
+t
+java:S1104("YMake deleteUserBtn a static final constant or non-public and provide accessors if needed.(ÿµÚûûÿÿÿÿ
+x
+java:S1104)"]Make systemIncomeField a static final constant or non-public and provide accessors if needed.(®ƒµÙÿÿÿÿÿ
+s
+java:S1104*"^Make systemExpenseField a static final constant or non-public and provide accessors if needed.(à¢…
+v
+java:S1104+"[Make systemDateField a static final constant or non-public and provide accessors if needed.(ªƒêëıÿÿÿÿ
+o
+java:S1104,"YMake messageToUser a static final constant or non-public and provide accessors if needed.(¹¨Œ‘
+q
+java:S1104-"[Make radioBtnPrivate a static final constant or non-public and provide accessors if needed.(ŞçîÂ
+p
+java:S1104."[Make radioBtnCompany a static final constant or non-public and provide accessors if needed.(¡Àê
+o
+java:S1104/"YMake radioBtnAdmin a static final constant or non-public and provide accessors if needed.(†¡ó
+n
+java:S11041"XMake categoryList a static final constant or non-public and provide accessors if needed.(ÎÛ³Œ
+p
+java:S11042"UMake addCatBtn a static final constant or non-public and provide accessors if needed.(¤ç«¯úÿÿÿÿ
+r
+java:S11043"\Make editCatNameField a static final constant or non-public and provide accessors if needed.(é¡º‚
+m
+java:S11044"XMake errorMessage a static final constant or non-public and provide accessors if needed.(Ø…„_
+z
+java:S11045"_Make messageToUserSystem a static final constant or non-public and provide accessors if needed.(ì–ÔÇüÿÿÿÿ
+s
+java:S11046"XMake showUsersBtn a static final constant or non-public and provide accessors if needed.(ÿôÂÅûÿÿÿÿ
+r
+java:S2259†"V"NullPointerException" will be thrown when invoking method "popUpConfirmDeleteUser()".(›ˆŸıÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(Òê²
+H
+java:S1172s"2Remove this unused method parameter "actionEvent".(¼½û«
+H
+java:S1172x"2Remove this unused method parameter "actionEvent".(ÒË˜Å
+M
+java:S1172|"2Remove this unused method parameter "actionEvent".(§ƒ€¾úÿÿÿÿ
+N
+java:S1172–"2Remove this unused method parameter "actionEvent".(Ø–ëöüÿÿÿÿ
+I
+java:S1172œ"2Remove this unused method parameter "actionEvent".(ˆ¦¹”
+W
+java:S1117¦";Rename "backBtn" which hides the field declared at line 32.(†²ÀÆşÿÿÿÿ
+
+java:S1130Æ"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¡Ä§¯
+N
+java:S1172á"2Remove this unused method parameter "actionEvent".(«˜Øüùÿÿÿÿ
+I
+java:S1172š"2Remove this unused method parameter "actionEvent".(ì”µü
+W
+java:S1117¨";Rename "backBtn" which hides the field declared at line 32.(Ï¦Çªÿÿÿÿÿ
+]
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(í¼ÊÚşÿÿÿÿ
+W
+java:S1117ã";Rename "backBtn" which hides the field declared at line 32.(†²ÀÆşÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'controller.UserController'.(¶†âúÿÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

@@ -1,0 +1,25 @@
+
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(»¬¸
+\	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(¯²›Å
+\	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(è˜­¯
+\	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(’µùŠ
+a	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(¨ğÎãùÿÿÿÿ
+\	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(æØÑÛ
+\	java:S112ş"FDefine and throw a dedicated exception instead of using a generic one.(µ«œ
+\	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(––ı
+J
+java:S37405"/Provide the parametrized type for this generic.(Àº·Ùøÿÿÿÿ
+P
+java:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‘‡ùüÿÿÿÿ
+R
+java:S2589A"7Remove this expression which always evaluates to "true"(£•­úÿÿÿÿ
+A
+java:S1168F"+Return an empty collection instead of null.(¥¹ï
+W	java:S125†"<This block of commented-out lines of code should be removed.(×¤£‹ÿÿÿÿÿ
+H
+java:S2175÷",A "List<Income>" cannot contain a "Expense".(×Ñ±…ıÿÿÿÿ
+W
+java:S1128"BRemove this unused import 'controller.AccountingSystemController'.(óĞßh
+U
+java:S1128":Remove this unused import 'controller.CategoryController'.(¾¯È¿ıÿÿÿÿ
